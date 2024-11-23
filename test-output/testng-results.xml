@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-23T19:40:52 PKT" name="Default suite" finished-at="2024-11-23T19:40:58 PKT" duration-ms="5239">
+  <suite started-at="2024-11-23T19:46:58 PKT" name="Default suite" finished-at="2024-11-23T19:47:02 PKT" duration-ms="3839">
     <groups>
     </groups>
-    <test started-at="2024-11-23T19:40:52 PKT" name="Default test" finished-at="2024-11-23T19:40:58 PKT" duration-ms="5239">
-      <class name="Test_API_2.TestPut_Partner2">
-        <test-method signature="TC3()[pri:0, instance:Test_API_2.TestPut_Partner2@201a4587]" started-at="2024-11-23T19:40:52 PKT" name="TC3" finished-at="2024-11-23T19:40:58 PKT" duration-ms="5187" status="PASS">
+    <test started-at="2024-11-23T19:46:58 PKT" name="Default test" finished-at="2024-11-23T19:47:02 PKT" duration-ms="3839">
+      <class name="Test_API_2.TestDelete_Partner2">
+        <test-method signature="TC4()[pri:0, instance:Test_API_2.TestDelete_Partner2@201a4587]" started-at="2024-11-23T19:46:58 PKT" name="TC4" finished-at="2024-11-23T19:47:02 PKT" duration-ms="3786" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC3 -->
-      </class> <!-- Test_API_2.TestPut_Partner2 -->
+        </test-method> <!-- TC4 -->
+      </class> <!-- Test_API_2.TestDelete_Partner2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
