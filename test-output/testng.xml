@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API Test Suite">
+    <test name="API Tests">
+        <classes>
+            <class name="Test_API.TestGet_Partner1"/>
+            <class name="Test_API.TestPost_Partner1"/>
+            <class name="Test_API.TestPut_Partner1"/>
+            <class name="Test_API.TestDelete_Partner1"/>
+        </classes>
+    </test>
+</suite>
